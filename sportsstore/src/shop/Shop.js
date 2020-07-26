@@ -5,7 +5,6 @@ import { CartSummary } from "./CartSummary";
 
 export class Shop extends Component {
   render() {
-    console.log("[DEBUG] props from Shop.js ", this.props);
     return (
       <div className="container-fluid">
         <div className="row">
